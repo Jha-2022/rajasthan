@@ -7,7 +7,7 @@ A vibrant, fully responsive single-page web application dedicated to showcasing 
 ![Desktop Preview](./public/images/desktop-preview.png)
 
 ### Mobile Responsive Menu & City Filter
-<p align="center">
+<p align="justify-content">
   <img src="./public/images/art-filter.png" width="50%" alt="art" />
   <img src="./public/images/food-filter.png" width="50%" alt="food" />
 </p>
