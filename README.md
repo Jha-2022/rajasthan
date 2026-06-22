@@ -1,6 +1,19 @@
 # Rajasthan Tourism Web Application
 A vibrant, fully responsive single-page web application dedicated to showcasing the rich cultural heritage, architecture, cuisine, and wildlife of Rajasthan, India. Built using React 19 and bundled with Vite for optimized performance.
 
+## 📸 Screenshots
+
+### Desktop View
+![Desktop Preview](./public/images/readme/desktop-preview.png)
+
+### Mobile Responsive Menu & City Filter
+<p align="center">
+  <img src="./public/images/readme/mobile-menu.png" width="30%" alt="Mobile Menu" />
+  <img src="./public/images/readme/city-filter.png" width="65%" alt="City Filters" />
+</p>
+
+---
+
 ## 🌟 Features
 * Interactive City Exploration: Filter and view historical landmarks based on major cities like Jaipur, Udaipur, Jodhpur, and Jaisalmer.
 
