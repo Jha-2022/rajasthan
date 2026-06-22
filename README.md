@@ -8,8 +8,8 @@ A vibrant, fully responsive single-page web application dedicated to showcasing 
 
 ### Mobile Responsive Menu & City Filter
 <p align="center">
-  <img src="./public/images/readme/mobile-menu.png" width="30%" alt="Mobile Menu" />
-  <img src="./public/images/readme/city-filter.png" width="65%" alt="City Filters" />
+  <img src="./public/images/readme/art-filter.png" width="30%" alt="Mobile Menu" />
+  <img src="./public/images/readme/food-filter.png" width="65%" alt="City Filters" />
 </p>
 
 ---
