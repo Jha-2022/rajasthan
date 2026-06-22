@@ -53,10 +53,12 @@ Ensure you have Node.js installed on your system.
 
 ```cd jha-2022/rajasthan```
 
-```
+
 2. Install the necessary dependencies:
-   ```bash
-npm install```
+
+```
+bash
+npm install
 ```
 
 ### Development
@@ -79,7 +81,7 @@ npm run build
 
 The output files will be generated in the dist/ directory.
 
-### ⚙️ Configuration & Content Customization
+## ⚙️ Configuration & Content Customization
 All copy, city sections, navigation items, image routes, and descriptions can be changed directly without editing the components. To customize the site's content, update the object export variables inside:
 
 ```
