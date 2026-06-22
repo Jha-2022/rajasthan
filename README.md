@@ -1,16 +1,26 @@
-# React + Vite
+Rajasthan Tourism Web Application
+A vibrant, fully responsive single-page web application dedicated to showcasing the rich cultural heritage, architecture, cuisine, and wildlife of Rajasthan, India. Built using React 19 and bundled with Vite for optimized performance.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+🌟 Features
+Interactive City Exploration: Filter and view historical landmarks based on major cities like Jaipur, Udaipur, Jodhpur, and Jaisalmer.
 
-Currently, two official plugins are available:
+Immersive Cultural Highlights: Showcases traditional dances (Ghoomar, Kalbeliya), block printing crafts, and regional festivals.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+Gastronomy & Wildlife Modules: Deep dives into traditional Rajasthani cuisine (Dal Baati Churma, Laal Maas) and protected wildlife sanctuaries.
 
-## React Compiler
+Curated Travel Guides: Interactive travel planners highlighting ideal visiting seasons and curated regional travel circuits.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Media Gallery Lightbox: A built-in modal utility to expand and browse high-quality images of landmark destinations.
 
-## Expanding the ESLint configuration
+Responsive Mobile Experience: Built with a fully fluid layout, sticky navigation header, and a slide-out mobile drawer menu.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack
+Framework: React 19
+
+Build Tool: Vite
+
+Icons: Lucide React
+
+Styling: Custom component-scoped global CSS layout injected with regional CSS variables (--sand, --maroon, --gold, and --indigo).
+
+Fonts: Marcellus (Headings) and Jost (Body text).
