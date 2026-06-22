@@ -8,7 +8,7 @@ A vibrant, fully responsive single-page web application dedicated to showcasing 
 
 ### Mobile Responsive Menu & City Filter
 <p align="flex-start">
-  <img src="./public/images/art-filter.png" width="48%" style="margin-right: 2%;" alt="art" />
+  <img src="./public/images/art-filter.png" width="48%"  alt="art" />
   <img src="./public/images/food-filter.png" width="48%" alt="food" />
 </p>
 
