@@ -6,21 +6,55 @@ A vibrant, fully responsive single-page web application dedicated to showcasing 
 
 * Immersive Cultural Highlights: Showcases traditional dances (Ghoomar, Kalbeliya), block printing crafts, and regional festivals.
 
-Gastronomy & Wildlife Modules: Deep dives into traditional Rajasthani cuisine (Dal Baati Churma, Laal Maas) and protected wildlife sanctuaries.
+* Gastronomy & Wildlife Modules: Deep dives into traditional Rajasthani cuisine (Dal Baati Churma, Laal Maas) and protected wildlife sanctuaries.
 
-Curated Travel Guides: Interactive travel planners highlighting ideal visiting seasons and curated regional travel circuits.
+* Curated Travel Guides: Interactive travel planners highlighting ideal visiting seasons and curated regional travel circuits.
 
-Media Gallery Lightbox: A built-in modal utility to expand and browse high-quality images of landmark destinations.
+* Media Gallery Lightbox: A built-in modal utility to expand and browse high-quality images of landmark destinations.
 
-Responsive Mobile Experience: Built with a fully fluid layout, sticky navigation header, and a slide-out mobile drawer menu.
+* Responsive Mobile Experience: Built with a fully fluid layout, sticky navigation header, and a slide-out mobile drawer menu.
 
 ## 🛠️ Tech Stack
-Framework: React 19
+* Framework: React 19
 
-Build Tool: Vite
+* Build Tool: Vite
 
-Icons: Lucide React
+* Icons: Lucide React
 
-Styling: Custom component-scoped global CSS layout injected with regional CSS variables (--sand, --maroon, --gold, and --indigo).
+* Styling: Custom component-scoped global CSS layout injected with regional CSS variables (--sand, --maroon, --gold, and --indigo).
 
-Fonts: Marcellus (Headings) and Jost (Body text).
+* Fonts: Marcellus (Headings) and Jost (Body text).
+
+## 📁 Project Structure
+```
+jha-2022/rajasthan/
+├── public/
+│   ├── images/          # Local static images (dunes, palaces, attire, etc.)
+│   └── favicon.svg
+├── src/
+│   ├── components/
+│   │   └── RajasthanWebsite.jsx  # Main centralized shell layout & subviews
+│   ├── data/
+│   │   └── constants.js         # Core copy/data arrays for all modules
+│   ├── App.jsx
+│   └── main.jsx
+├── package.json
+└── vite.config.js
+
+```
+
+
+## 🚀 Getting Started
+### Prerequisites
+Ensure you have Node.js installed on your system.
+
+### Installation
+1.Clone the repository or navigate to the project directory:
+
+```cd jha-2022/rajasthan```
+
+```2. Install the necessary dependencies:
+   ```bash
+npm install```
+
+
