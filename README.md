@@ -4,12 +4,12 @@ A vibrant, fully responsive single-page web application dedicated to showcasing 
 ## 📸 Screenshots
 
 ### Desktop View
-![Desktop Preview](./public/images/readme/desktop-preview.png)
+![Desktop Preview](./public/images/desktop-preview.png)
 
 ### Mobile Responsive Menu & City Filter
 <p align="center">
-  <img src="./public/images/readme/art-filter.png" width="30%" alt="Mobile Menu" />
-  <img src="./public/images/readme/food-filter.png" width="65%" alt="City Filters" />
+  <img src="./public/images/art-filter.png" width="30%" alt="art" />
+  <img src="./public/images/food-filter.png" width="65%" alt="food" />
 </p>
 
 ---
