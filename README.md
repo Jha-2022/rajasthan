@@ -53,8 +53,35 @@ Ensure you have Node.js installed on your system.
 
 ```cd jha-2022/rajasthan```
 
-```2. Install the necessary dependencies:
+```
+2. Install the necessary dependencies:
    ```bash
 npm install```
+```
 
+### Development
+To launch the hot-reloading local development server:
 
+```
+Bash
+npm run dev
+```
+
+Open the provided URL (typically http://localhost:5173) in your web browser.
+
+Build
+To compile the application into static assets for production deployment:
+
+```
+Bash
+npm run build
+```
+
+The output files will be generated in the dist/ directory.
+
+### ⚙️ Configuration & Content Customization
+All copy, city sections, navigation items, image routes, and descriptions can be changed directly without editing the components. To customize the site's content, update the object export variables inside:
+
+```
+src/data/constants.js
+```
